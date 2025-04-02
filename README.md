@@ -1,4 +1,4 @@
-# Repository used as part of the "Hydroacoustic toolbox - Geo-Ocean"
+# This repositery is created as part of the "Hydroacoustic toolbox - Geo-Ocean"
 
 ## Components
 - download_copernicus_data Jupyter notebook
