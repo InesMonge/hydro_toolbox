@@ -16,3 +16,5 @@ For each hydrophone, there is a file containing the uo and vo currents data from
 This notebook enables you to compare the uo and vo data from the copernicus dataset with the MAHY data.
 
 It was created as apart of the "Hydroacoustic toolbox - Geo-Ocean". Therefore, the filepaths correspond to those of this toolbox.
+
+https://github.com/GEO-OCEAN-hydroacoustic/toolbox/tree/develop-PY
